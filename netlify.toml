@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/"
+  to = "/onekey_pulse_runner.html"
+  status = 200
